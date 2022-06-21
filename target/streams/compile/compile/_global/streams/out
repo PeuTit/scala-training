@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- Error: /Users/titouan/Documents/work/lunatech/hello_scala/src/main/scala/recursionLesson.scala:74:4 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m74 |[0m    [33melse[0m fiboTailRec(n, n - [31m1[0m, n - [31m2[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m   |    [31m^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |    end of statement expected but 'else' found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E007] Type Mismatch Error: /Users/titouan/Documents/work/lunatech/hello_scala/src/main/scala/recursionLesson.scala:75:3 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m75 |[0m  }[0m
+[0m[[0m[31merror[0m] [0m[0m   |   [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |   Found:    Unit[0m
+[0m[[0m[31merror[0m] [0m[0m   |   Required: Int[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
